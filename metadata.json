@@ -1,0 +1,6 @@
+{
+  "name": "Glass Dock Launcher",
+  "description": "Premium macOS-style floating dock and gorgeous desktop launcher for Android tablet, featuring liquid glass-morphism, smooth animations, resizable glass widgets, live configuration settings, and Apple-grade fluidity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
